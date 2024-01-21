@@ -1,0 +1,17 @@
+@media only screen and (max-width: 800px){
+    .nav-menu{
+        display: none;
+    }
+     .nav-bar{
+        padding: 20px 0;
+        justify-content: space-between;
+    } 
+    .ham-icon{
+        display: flex;
+    }
+
+    .menu-links{
+        display: block;
+    }
+
+}
